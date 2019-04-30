@@ -539,3 +539,4 @@ gcloud beta container clusters create private-cluster2 \
 brew install bat
 gcloud ml language analyze-entities --content="Michelangelo Caravaggio, Italian painter, is known for 'The Calling of Saint Matthew'." | bat  -l json
 ```
+Thanks to - https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97
